@@ -1,0 +1,11 @@
+../Core/Src/serialio.c:12:6:serial_putc	16	static
+../Core/Src/serialio.c:16:5:serial_puts	24	static
+../Core/Src/serialio.c:26:5:serial_putd	40	static
+../Core/Src/serialio.c:37:5:serial_putf	40	static
+../Core/Src/serialio.c:48:6:serial_clearscr	8	static
+../Core/Src/serialio.c:53:6:serial_nl	24	static
+../Core/Src/serialio.c:60:6:serial_pause	16	static
+../Core/Src/serialio.c:67:5:serial_getc	16	static
+../Core/Src/serialio.c:85:5:serial_gets	24	static
+../Core/Src/serialio.c:113:5:serial_getd	40	static
+../Core/Src/serialio.c:124:5:serial_getf	40	static
